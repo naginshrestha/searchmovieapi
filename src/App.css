@@ -1,0 +1,17 @@
+.wrapper {
+  min-height: 100vh;
+}
+
+.search-form {
+  background: #000;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 500px;
+  margin: auto;
+}
+
+.movie-list {
+  background: #000;
+  padding: 2rem;
+  border-radius: 10px;
+}
